@@ -1,1 +1,3 @@
-# microservices_spring_boot_project
+# Microservices Spring Boot Project
+
+![diagram](diagram.png)
